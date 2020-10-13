@@ -1,2 +1,1 @@
-"# Dora" 
-"# Dora" 
+DORA (Discovery of Relations by Analogy) is a cognitive model of relational learning.  
